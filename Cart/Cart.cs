@@ -6,7 +6,7 @@ namespace cart
 {
     public class Cart
     {
-        public List<Items> products { get; set; }
+        public List<Items> products = new List<Items>();
         
 
         public  int amount { get; set; }

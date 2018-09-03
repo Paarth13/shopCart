@@ -14,5 +14,19 @@ namespace items
         public int quantity { get; set; }
 
         public int price { get; set; }
+
+
+        public Items addItem()
+        {
+            Items ob = new Items();
+            ob.price = 100;
+            ob.productName = "BB";
+            ob.quantity = 2;
+            ob.productId = 101;
+            return ob;
+        }
+
+        
+
     }
 }

@@ -13,10 +13,10 @@ namespace SOLIDSCart
         static void Main(string[] args)
         {
             Cart shopCart = new Cart();
-            Operations funcs = new Operations();
+            Items funcs = new Items();
             shopCart.products.Add(funcs.addItem());
             shopCart.mode = ModeOfPayment.COD;
-            shopCart=funcs.removeItems(shopCart);
+            shopCart=shopCart.removeItems(shopCart);
             int amount = 0;
             for (int i = 0; i < shopCart.products.Count; i++)
             {

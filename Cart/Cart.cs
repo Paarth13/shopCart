@@ -27,6 +27,12 @@ namespace cart
             Console.WriteLine(ob.amount);
         }
 
+
+        public Cart removeItems(Cart ob)
+        {
+            ob.products.Clear();
+            return ob;
+        }
     }
 
     public enum ModeOfPayment

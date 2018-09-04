@@ -13,7 +13,7 @@ namespace cart
 
         ModeOfPayment mode;
 
-        public Cart addCart()
+        public void addCart()
         {
             // Adding cart with items (calling add items), total amount, mode of payment
         }
@@ -23,7 +23,7 @@ namespace cart
         }
 
 
-        public Cart removeItems(Cart ob)
+        public void removeItems(Cart ob)
         {
             // Can remove items 
             

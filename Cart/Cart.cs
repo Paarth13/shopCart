@@ -38,6 +38,6 @@ namespace cart
     public enum ModeOfPayment
     {
         COD,
-        Online,ard
-    }
+        Online
+     }
 }

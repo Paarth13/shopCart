@@ -1,0 +1,7 @@
+C:\Users\pvashisht\source\repos\Cart\Cart\bin\Debug\Cart.exe.config
+C:\Users\pvashisht\source\repos\Cart\Cart\bin\Debug\Cart.exe
+C:\Users\pvashisht\source\repos\Cart\Cart\bin\Debug\Cart.pdb
+C:\Users\pvashisht\source\repos\Cart\Cart\obj\Debug\Cart.csprojAssemblyReference.cache
+C:\Users\pvashisht\source\repos\Cart\Cart\obj\Debug\Cart.csproj.CoreCompileInputs.cache
+C:\Users\pvashisht\source\repos\Cart\Cart\obj\Debug\Cart.exe
+C:\Users\pvashisht\source\repos\Cart\Cart\obj\Debug\Cart.pdb
